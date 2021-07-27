@@ -8,3 +8,5 @@ Os conhecimentos adquiridos ao realizar o curso foram:
 - Criação de rotas seguindo padrão REST. 
 - Configuração e criação de conexão com banco de dados.
 - Melhores práticas com verbos HTTP e status code.
+- Manipulação de arquivos usando Stream.
+- Event Loop.
