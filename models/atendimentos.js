@@ -1,5 +1,4 @@
 const moment = require('moment');
-const { query } = require('../infraestrutura/conexao');
 const conexao = require('../infraestrutura/conexao');
 
 
