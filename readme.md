@@ -10,3 +10,6 @@ Os conhecimentos adquiridos ao realizar o curso foram:
 - Melhores práticas com verbos HTTP e status code.
 - Manipulação de arquivos usando Stream.
 - Event Loop.
+- Consumo de APIs utilizando AXIOS.
+- Uso de Promises.
+- Separação de responsabilidades.
