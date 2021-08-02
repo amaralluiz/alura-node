@@ -13,3 +13,5 @@ Os conhecimentos adquiridos ao realizar o curso foram:
 - Consumo de APIs utilizando AXIOS.
 - Uso de Promises.
 - Separação de responsabilidades.
+- Repository.
+- Promises.
